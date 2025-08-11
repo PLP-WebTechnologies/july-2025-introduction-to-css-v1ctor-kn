@@ -1,0 +1,74 @@
+button {
+    background-color: #4CAF50; /* Green */
+    border: tomato;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: double black underline;
+    display: inline-block;
+    font-size: 16px;
+     font-weight:bold ;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 115px;
+}
+*{
+    background-color: black;
+    color: white;
+    font-family: press-start , sans-serif;
+
+}
+.eddy{
+    text-align: center;
+    font-size: 50px;
+    color : #00ff00;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: #00ff00;
+    border: 2px solid #00ff00;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color:#ff7f7f;
+}
+.eddy:hover {
+    background-color: #00ff00;
+    color: black;
+    transition: background-color 0.1s ease, color 0.1s ease;
+}
+nav {
+    background-color: #10de40;
+    overflow: hidden;
+    color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    border:  solid #00ff00;
+    padding: 0.5px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+h2,h3{
+    text-align: center;
+    color: #00ff00;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: #00ff00;
+    margin-top: 20px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+form {
+    background-color: #ff7f7f;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
